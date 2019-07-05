@@ -6,7 +6,7 @@ int main () {
    int spaces; . 
    int increase_number; 
    int decrease_number; 
-   int  line_counter; 
+   int line_counter; 
    int character_counter; 
    int counter_spaces; 
    
