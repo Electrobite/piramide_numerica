@@ -21,17 +21,3 @@ int main() {
  
     return 0;
 }
- // E J E M P L O
- //
- // Introducimos el número 800.
- //
- // 800:10 = 80 ---> "resto = '0' 
- // Imprimir "resto" ---> '0'
- //
- // 80:10 =  8 ---> "resto = '0' 
- // Imprimir "resto" ---> '0'
- //
- // 8:10 =  0 ---> "resto = '8'
- // Imprimir "resto" ---> '8'
- //
- // Obtendremos el mensaje: "Su numero invertido es: 008".
