@@ -30,11 +30,9 @@ int main () {
     }
  
     for ( a = 0 ; a < 50 ; a++ ) { 
-		
        rest[a] = number % base;                         
        number = number / base; 
        if (number == 0) break; 
-       
     }
     
     for ( b = a ; b >= 0 ; b-- ) { 
