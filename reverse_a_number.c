@@ -34,7 +34,4 @@ int main() {
  // 8:10 =  0 ---> "resto = '8'
  // Imprimir "resto" ---> '8'
  //
- // Obtendremos el mensaje: "Su numero invertido es: 008". 
- //
- // Recordad que estamos trabajando con enteros, por lo que el programa no tendrá en cuenta números decimales.
- // Es por ello que en la operación "8:10 = 0" se queda con resto "8".
+ // Obtendremos el mensaje: "Su numero invertido es: 008".
