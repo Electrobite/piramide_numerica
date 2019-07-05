@@ -1,8 +1,8 @@
 #include <stdio.h>
  
-int main () {
-
-	int number; 
+int main() {
+ 
+    int number; 
 	int base; 
 	int option = 0; 
 	int rest[50]; 
