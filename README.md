@@ -12,7 +12,7 @@ A C compiler is needed. You can use an online C compiler like this: https://www.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 
 
